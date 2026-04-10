@@ -1,4 +1,5 @@
-# DUDF: Differentiable Unsigned Distance Fields with Hyperbolic Scaling
+# 2024CVPR-DUDF 
+源代码地址：https://github.com/LIA-DiTella/DiffUDF
 
 ## 配置环境
 ```bash
